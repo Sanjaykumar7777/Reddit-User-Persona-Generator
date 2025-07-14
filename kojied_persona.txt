@@ -1,0 +1,23 @@
+User Persona:
+
+The Reddit user u/kojied seems to have a wide array of interests, from technology and software development to popular culture and environmental issues. They are active in subreddits such as r/VisionPro, r/OnePiece, r/AskReddit, r/ManorLords, r/ClimateOffensive, among others, suggesting they are interested in virtual and augmented reality, manga and anime, general knowledge and discussions, gaming, and climate change.
+
+Their posts and comments are generally well-articulated, with a casual and direct tone. They often ask thought-provoking questions and engage in discussions, indicating a curious mind and an inclination for learning and understanding different perspectives. They also provide advice and share knowledge on subjects they are familiar with, showcasing a helpful and sharing nature.
+
+This user seems to have a global outlook, with posts and comments touching on various societal and cultural aspects from different parts of the world. Their interest in topics such as the H1B visa narrative, ESG ratings, and climate change suggest a worldview that is conscious of social and environmental issues. They also show interest in understanding and keeping up with technological advancements, particularly in relation to software development and virtual reality.
+
+Example URLs:
+
+Interests:
+- Tech and software development: https://reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+- Popular culture: https://reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/
+- Gaming: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+- Environmental issues: https://reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+
+Tone of voice:
+- Casual and direct: https://reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/
+
+Worldview:
+- Conscious of social issues: https://reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+- Conscious of environmental issues: https://reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/
+- Interested in technological advancements: https://reddit.com/r/VisionPro/comments/1b4yi15/spacial_tours_with_3d_map_and_360_video/
